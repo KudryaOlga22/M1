@@ -31,5 +31,5 @@ Master-Master репикация
 
 ![alt text](https://github.com/KudryaOlga22/M1/blob/main/photo_2023-11-23_22-12-36%20(2).jpg)
 ![alt text](https://github.com/KudryaOlga22/M1/blob/main/photo_2023-11-23_22-12-36%20(3).jpg)
-![alt text](https://github.com/KudryaOlga22/M1/blob/main/photo_2023-11-23_22-12-36%20.jpg)
+![alt text](https://github.com/KudryaOlga22/M1/blob/main/photo_2023-11-23_22-12-36.jpg)
 
